@@ -1,0 +1,184 @@
+* {
+  padding: 0px;
+  text-decoration: none !important;
+}
+
+.link-top {
+  font-size: 16px;
+  color: var(--gray-dark);
+  border-right: 1px solid #c6c6c6;
+}
+
+.top-hero {
+  background-color: #ebebeb;
+}
+
+.link-top:hover {
+  color: #50b49b;
+}
+
+.navbar-brand {
+  background: url("../../assets/img/sufara--logo.svg") center / cover no-repeat;
+  width: 150px;
+  height: 75px;
+}
+
+body {
+  font-family: 'Cairo';
+}
+
+.donate {
+  border: 1px solid #195078;
+  transition: all 600ms;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(25,80,120);
+  cursor: pointer;
+}
+
+.donate:hover {
+  color: #195078;
+  background-color: #50b49b;
+  border: 1px solid rgba(255,255,255,0);
+}
+
+.navbar-nav {
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background: 50%/100% 100% no-repeat;
+  color: black;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+  color: black;
+}
+
+.divider {
+  width: 60px;
+  height: 1px;
+  background-color: black;
+}
+
+.Statistics {
+  color: #195078;
+}
+
+.number-item.love_counter {
+  background-color: #016090;
+}
+
+.love_counter {
+  background-color: #048f83;
+}
+
+.price {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 15px;
+  top: 55%;
+  background-color: #ffffff;
+  border-radius: 50%;
+  box-shadow: 1px 1px 70px rgba(89,89,89,0.41);
+  color: #195078;
+}
+
+.bg-dark {
+  background-color: #50b49b!important;
+}
+
+.slide-mid .carousel-inner .carousel-item {
+  max-height: 500px;
+  height: 420px!important;
+}
+
+.slide-mid {
+  background-color: #195078;
+  padding: 0px;
+}
+
+.divider {
+  background-color: #048f83;
+  height: 2px;
+}
+
+.p-descreption {
+  color: rgb(188,188,188);
+}
+
+.btn-learn {
+  color: #ffffff;
+  border: 1px solid #50b49b;
+  transition: all 550ms;
+}
+
+.btn-learn:hover {
+  color: #ffffff;
+  border: 1px solid rgba(255,255,255,0);
+  background-color: #048f83;
+}
+
+.info-mail {
+  color: #ffffff;
+}
+
+.div-next {
+  border: 1px solid #808080;
+  width: 50px;
+}
+
+.icon-next {
+  font-size: 20px;
+}
+
+.p2-descreption {
+  font-size: 15px;
+}
+
+.divider-gray {
+  width: 70%;
+  height: 1px;
+  background-color: #d9d9d9;
+}
+
+.div-face {
+  width: 250px;
+}
+
+.p-kid {
+}
+
+.div-desc:hover {
+  color: #ffffff;
+  background-color: #50b49b;
+}
+
+.p-kid {
+  line-height: 30px;
+  color: #adb5bd;
+}
+
+svg {
+  color: #048f83;
+}
+
+.costomize-control{
+  position: relative;
+  top: 0;
+  width: 50px;
+}
+
